@@ -1,5 +1,11 @@
 # package-demo
 
+## 0.2.4
+
+### Patch Changes
+
+- 89da383: package name changed
+
 ## 0.2.3
 
 ### Patch Changes
