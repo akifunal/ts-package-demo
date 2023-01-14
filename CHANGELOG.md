@@ -1,5 +1,11 @@
 # package-demo
 
+## 0.2.2
+
+### Patch Changes
+
+- c0b4661: publish command typo fixed
+
 ## 0.2.1
 
 ### Patch Changes
