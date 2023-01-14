@@ -1,5 +1,11 @@
 # package-demo
 
+## 0.2.1
+
+### Patch Changes
+
+- baca3d2: publish command added
+
 ## 0.2.0
 
 ### Minor Changes
