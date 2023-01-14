@@ -1,5 +1,11 @@
 # package-demo
 
+## 0.2.3
+
+### Patch Changes
+
+- 7ff6e4a: changeset's access value changed to public
+
 ## 0.2.2
 
 ### Patch Changes
